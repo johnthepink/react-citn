@@ -7,6 +7,7 @@
   "rules": {
     "quotes": [2, "double"],
     "global-require": 0,
-    "react/jsx-filename-extension": [1, { "extensions": [".js"] }]
+    "react/jsx-filename-extension": [1, { "extensions": [".js"] }],
+    "react/prefer-stateless-function": 0
   }
 }
