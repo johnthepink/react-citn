@@ -1,0 +1,10 @@
+class SillyList extends React.Component {
+  render() {
+    return (
+      <ul>
+        <li>silly!</li>
+        <li>me</li>
+      </ul>
+    );
+  }
+}

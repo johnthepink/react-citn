@@ -17,7 +17,7 @@
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
     "spectacle": "^1.0.0",
-    "spectacle-code-slide": "github:newspring/spectacle-code-slide#dist"
+    "spectacle-code-slide": "github:newspring/spectacle-code-slide#updates"
   },
   "devDependencies": {
     "autoprefixer-core": "^6.0.1",

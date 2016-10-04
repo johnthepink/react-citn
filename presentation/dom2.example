@@ -1,0 +1,10 @@
+class SillyList extends React.Component {
+  render() {
+    return (
+      React.DOM.ul(null,
+        React.DOM.li(null, "silly!"),
+        React.DOM.li(null, "me")
+      );
+    );
+  }
+}

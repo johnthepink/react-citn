@@ -1,0 +1,9 @@
+class SillyButton extends Component {
+  render() {
+    return (
+      <div>
+        <button>silly!</button>
+      </div>
+    );
+  }
+}
