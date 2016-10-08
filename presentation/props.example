@@ -1,0 +1,20 @@
+class ClickyButton extends React.Component {
+  static defaultProps = {
+    text: "Click Me!",
+  };
+
+  render() {
+    return <button>{this.props.text}</button>;
+  }
+}
+
+class CrazyForm extends React.Component {
+  render() {
+    return (
+      <div>
+        <h3>Crazy Form!</h3>
+        <ClickyButton text="Go Crazy!" />
+      </div>
+    );
+  }
+}

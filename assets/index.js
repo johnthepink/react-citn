@@ -21,6 +21,7 @@ require("normalize.css");
 require("spectacle/lib/themes/default/index.css");
 require("./fonts.css");
 require("./code.css");
+require("./terminal.css");
 
 export const theme = createTheme({
   primary: "#f89734",

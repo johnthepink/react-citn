@@ -20,7 +20,7 @@
   - uppercase it w/e
 - Components
   - classes
-  - stateless
+  - 
 - Props
 - DOM events
 - State
@@ -45,4 +45,5 @@
 - React Music
 - React Games
 - React Hardware
+- React VR
 - This Presentation
