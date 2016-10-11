@@ -16,7 +16,6 @@ import {
   S,
   Slide,
   Spectacle,
-  Text,
 } from "spectacle";
 
 import CodeSlide from "spectacle-code-slide";
@@ -71,15 +70,12 @@ const Presentation = () => (
         <Heading size={1} fit caps lineHeight={1} textColor="light-primary">
           React
         </Heading>
-        <Heading size={1} fit textColor="dark-tertiary">
+        <Heading size={1} caps fit textColor="dark-primary">
           The Beginning of the
         </Heading>
-        <Heading size={1} fit textColor="dark-secondary">
+        <Heading size={1} caps fit textColor="dark-primary">
           Rest of Your Life(cycle)
         </Heading>
-        <Link href="https://github.com/johnthepink/react-citn">
-          <Text bold caps textColor="tertiary">View on Github</Text>
-        </Link>
       </Slide>
 
       {/* What */}
